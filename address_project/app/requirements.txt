@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+pydantic[email]
+alembic
+python-dotenv
+geopy
